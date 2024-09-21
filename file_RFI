@@ -1,0 +1,4 @@
+<PHP
+	echo "PHP response file"
+	echo " /!\ potential RFI /!\"
+?>
